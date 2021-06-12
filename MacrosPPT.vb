@@ -44,6 +44,7 @@ Dim rect As Shape
 
 
 ActivePresentation.SlideMaster.Background.Fill.ForeColor.RGB = RGB(0, 0, 0)
+ActivePresentation.SlideMaster.Background.Fill.BackColor.RGB = RGB(0, 0, 0)
 
 
 Debug.Print "abcd"
